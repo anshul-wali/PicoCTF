@@ -5,5 +5,5 @@
 - Next it will ask for password, paste the password from pw.txt file and we'll get the flag.
 - <details> 
   <summary>Flag</summary>
-   A1: picoctf{gAAAAABmB_YjeN3f50oP6erymvq39wswxepBVxxMVESROn4fx5LMTZa9RFcKeBa3mu-ehza7RgHvjDunhxOnw8RHWyRvE4MGCPNIXeZk-LgfUGLkrMB0sno0GhojeHqqnO_PxwJwYuvG} 
+   picoCTF{4p0110_1n_7h3_h0us3_6008014f}
   </details>
