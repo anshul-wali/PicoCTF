@@ -1,1 +1,3 @@
-
+- copy link
+- downlaod file using wget link
+- cat file 
