@@ -3,5 +3,5 @@
 - In the input box write the value given in CTF i.e "0x70" and the ouput box you'll have your answer.
 - <details> 
   <summary>Flag</summary>
-   p
+   P
   </details>
