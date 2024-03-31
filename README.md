@@ -1,1 +1,1 @@
-Notes I made while solving the CTF's on picoCTF
+Walkthrough I wrote for CTF's while solving them the on picoCTF
