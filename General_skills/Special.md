@@ -4,7 +4,7 @@
 - I listed the content using `''ls''` and found a directory named 'blargh'.
 - I tried to `cd` into the blargh but it did not work, so I tried a different way to list the contents of this directory. 
 - To list it's content I ran `''ls'' ''blargh''`. I found a file named `flag.txt`.
-- To print the content of this file I ran `''cat'' ''blargh/flag.txt''`.
+- To print the content of this file I ran `''cat'' ''blargh/flag.txt''` and found the flag.
 - <details> 
   <summary>Flag</summary>
    picoCTF{5p311ch3ck_15_7h3_w0r57_3befb794}
