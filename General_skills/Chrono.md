@@ -4,7 +4,7 @@
 - We will now change our directory to "cd /etc".
 - List the files in this directory using "ls". We can see files name that start with cron, after trying opening them we got our flag in "crontab" file using 
   "cat corntab". 
-- <details> 
+- <details>
   <summary>Flag</summary>
    picoCTF{Sch3DUL7NG_T45K3_L1NUX_1d781160}
   </details>
